@@ -13,9 +13,19 @@ LliureX Mirror en 60 segundos
 =============================
 
 Para lanzar el LliureX Mirror , basta con que abramos el *Centro de control de LliureX* en el servidor de aula y en la sección de *Red*, veremos esta pantalla:
+
+
 ![LliureX Mirror en el Zero Center][lliurex-mirror-zero-center]
 
+Una vez lanzado, la GUI (*Interfáz Gráfica de Usuario*) es muy simple y basta con que seleccionemos la arquitectura (o arquitecturas) que deseemos y pulsemos el botón de actualizar. 
 
+![LliureX Mirror GUI][lliurex-mirror-gui]
+
+
+
+
+
+[lliurex-mirror-gui]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-mirror/lliurex-mirror-gui.png "LliureX Mirror"
 
 [lliurex-mirror-zero-center]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-mirror/lliurex-mirror-zero-center.png "LliureX Mirror en el Zero Center"
 
