@@ -16,10 +16,12 @@ Objetivos
 * MarkDown Rocks!
 
 
-[LliureX Mirror](src/lliurex-mirror/lliurex-mirror.md)
+Capítulos
+---------
+1 [LliureX Mirror](src/lliurex-mirror/lliurex-mirror.md)
 
 
 Próximos episodios:
 -------------------
 
-[LliureX Mirror]
+[N4D]
