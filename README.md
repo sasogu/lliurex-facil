@@ -19,7 +19,7 @@ Objetivos
 Capítulos
 ---------
 1 [LliureX Mirror](src/lliurex-mirror/lliurex-mirror.md)
-
+2 [LTSP en LliureX](src/lliurex-ltsp/lliurex-ltsp.md)
 
 Próximos episodios:
 -------------------
