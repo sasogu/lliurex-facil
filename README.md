@@ -20,6 +20,7 @@ Capítulos
 ---------
 * [LliureX Mirror](src/lliurex-mirror/lliurex-mirror.md)
 * [LTSP en LliureX](src/lliurex-ltsp/lliurex-ltsp.md)
+* [Modelo de Aula: Samba! ](src/lliurex-samba/lliurex-samba.md)
 
 Próximos episodios:
 -------------------
