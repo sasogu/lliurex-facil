@@ -28,8 +28,11 @@ Agradecimientos
 
 Esto no sería posible sin ellos:
 
+**Equipo LliureX**
 * Raurodse *@raurodse*
 * Cless *@ClessAlvn*
+* Enrique M.G. *@Lt_Henry*
+
 
 Próximos episodios:
 -------------------
