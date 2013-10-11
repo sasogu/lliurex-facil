@@ -29,10 +29,12 @@ Agradecimientos
 Esto no sería posible sin ellos:
 
 **Equipo LliureX**
+
 * Raurodse *@raurodse*
 * Cless *@ClessAlvn*
 * Enrique M.G. *@Lt_Henry*
-
+* turix *@turix_*
+* David Montalva *@dmontalva*
 
 Próximos episodios:
 -------------------
