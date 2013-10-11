@@ -19,8 +19,17 @@ Objetivos
 Capítulos
 ---------
 * [LliureX Mirror](src/lliurex-mirror/lliurex-mirror.md)
-* [LTSP en LliureX](src/lliurex-ltsp/lliurex-ltsp.md)
 * [Modelo de Aula: Samba! ](src/lliurex-samba/lliurex-samba.md)
+* [LTSP en LliureX](src/lliurex-ltsp/lliurex-ltsp.md)
+
+
+Agradecimientos
+---------------
+
+Esto no sería posible sin ellos:
+
+* Raurodse *@raurodse*
+* Cless *@ClessAlvn*
 
 Próximos episodios:
 -------------------
