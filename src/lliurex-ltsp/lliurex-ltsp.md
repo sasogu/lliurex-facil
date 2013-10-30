@@ -12,3 +12,8 @@ LliureX LTSP en 60 Segundos
 ---------------------------
 
 En el menú de *Administración de LliureX* hay una entrada que es *LliureX LTSP*.
+![LliureX LTSP en el Menú][lliurex-ltsp-menu]
+
+
+
+[lliurex-ltsp-menu]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-mirror/lliurex_ltsp_menu.png "LliureX LTSP"
