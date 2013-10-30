@@ -42,7 +42,7 @@ Vamos de uno en uno ahora
 Actualizar el mirror
 --------------------
 
-Esto funciona exactamente como dice aquí: [LliureX Mirror](src/lliurex-mirror/lliurex-mirror.md)
+Esto funciona exactamente como dice aquí: [LliureX Mirror](https://github.com/aberlanas/lliurex-facil/blob/master/src/lliurex-mirror/lliurex-mirror.md)
 
 
 [lliurex-ltsp-menu]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_menu.png "LliureX LTSP"
