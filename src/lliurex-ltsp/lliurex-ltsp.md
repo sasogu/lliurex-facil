@@ -69,6 +69,7 @@ Como podemos observar, tan solo tenemos disponible el botón de **Install** de c
 [lliurex-ltsp-menu]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_menu.png "LliureX LTSP"
 [lliurex-ltsp-intro]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_intro.png "LliureX LTSP Intro"
 [lliurex-ltsp-main-menu]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_main_menu.png "LliureX LTSP Main Menu"
+[lliurex-ltsp-images-management]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_images_management.png "LliureX LTSP Main Menu"
 [lliurex-ltsp-image-creation]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_image_creation.png "LliureX LTSP Image Creation"
 [lliurex-ltsp-image-prev-creation]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_create_prev.png "LliureX LTSP Image Creation"
 [lliurex-ltsp-image-creation-progress]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_image_creation_progress.png "LliureX LTSP image creation progress"
