@@ -10,3 +10,5 @@ LliureX abandonó *TcOS* a favor de *LTSP* en la versión 13.06. Los motivos par
 
 LliureX LTSP en 60 Segundos
 ---------------------------
+
+En el menú de *Administración de LliureX* hay una entrada que es *LliureX LTSP*.
