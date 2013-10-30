@@ -86,6 +86,18 @@ Esta instalación usará los paquetes del Mirror de LliureX que haya en el servi
 ![LliureX LTSP network installation][lliurex-ltsp-network-install]
 
 
+Lo que se ve si se arranca por red un cliente y se tiene la instalación por red habilitada en el servidor es lo siguiente:
+
+[lliurex-ltsp-network-install-client-boot]
+
+Y luego podemos elegir el tipo de instalación que queremos para la máquina
+
+[lliurex-ltsp-network-install-client-boot-choose]
+
+La instalación irá haciendonos las preguntas correspondientes. 
+
+<!-- imagenes -->
+
 [lliurex-ltsp-menu]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_menu.png "LliureX LTSP"
 [lliurex-ltsp-intro]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_intro.png "LliureX LTSP Intro"
 [lliurex-ltsp-main-menu]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_main_menu.png "LliureX LTSP Main Menu"
@@ -93,8 +105,9 @@ Esta instalación usará los paquetes del Mirror de LliureX que haya en el servi
 [lliurex-ltsp-image-creation]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_image_creation.png "LliureX LTSP Image Creation"
 [lliurex-ltsp-image-prev-creation]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_create_prev.png "LliureX LTSP Image Creation"
 [lliurex-ltsp-image-creation-progress]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_image_creation_progress.png "LliureX LTSP image creation progress"
-
 [lliurex-ltsp-network-install]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_network_install.png "LliureX LTSP network installation"
+[lliurex-ltsp-network-install-client-boot]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_network_install_client_boot.png "LliureX LTSP network installation"
+[lliurex-ltsp-network-install-client-boot-choose]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_network_install_client_boot_choose.png "LliureX LTSP network installation"
 
 [cafe]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/miscelanea/cafe.jpg "Cafe"
 
