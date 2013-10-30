@@ -7,17 +7,32 @@ Una vez tenemos el mirror creado y actualizado con [LliureX Mirror](https://gith
 
 Si arrancamos los clientes por red, lo que se muestra es esto:
 
+![LliureX LTSP network installation][lliurex-ltsp-network-install-1]
+
+Seleccionamos la opción de instalar LliureX y nos mostrará un menú para que podamos elegir el sabor de la instalación. En el caso de que queramos un cliente, seleccionamos cliente.
+
 ![LliureX LTSP network installation][lliurex-ltsp-network-install-2]
+
+Preguntas del instalador
+------------------------
+
+Ahora ya estamos en el sistema de instalación y este nos efectuará algunas preguntas sencillas y necesarias para poder instalar el aula. 
+
+**AVISO NAVEGANTES:** En determinados pasos las operaciones tardan mucho y es posible que no obtengamos el _feedback_ que nos gustaría, pero con un poco de paciencia se consigue todo.
 
 ![LliureX LTSP network installation][lliurex-ltsp-network-install-3]
 
 ![LliureX LTSP network installation][lliurex-ltsp-network-install-4]
+
+Usuario y contraseña
 
 ![LliureX LTSP network installation][lliurex-ltsp-network-install-5]
 
 ![LliureX LTSP network installation][lliurex-ltsp-network-install-6]
 
 ![LliureX LTSP network installation][lliurex-ltsp-network-install-7]
+
+Particionado del disco, en el caso de un cliente, podemos elegir "Guiado: Utilizar todo el disco", que es lo más sencillo
 
 ![LliureX LTSP network installation][lliurex-ltsp-network-install-8]
 
