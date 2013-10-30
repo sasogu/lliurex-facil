@@ -6,6 +6,7 @@ La instalación por red es el mecanismo que ofrecen muchas distribuciones, tales
 Una vez tenemos el mirror creado y actualizado con [LliureX Mirror](https://github.com/aberlanas/lliurex-facil/blob/master/src/lliurex-mirror/lliurex-mirror.md), y hemos habilitado la instalación por red en el aula con [LliureX LTSP](https://github.com/aberlanas/lliurex-facil/blob/master/src/lliurex-ltsp/lliurex-ltsp.md). 
 
 Si arrancamos los clientes por red, lo que se muestra es esto:
+![LliureX LTSP network installation][lliurex-ltsp-network-install-0]
 
 ![LliureX LTSP network installation][lliurex-ltsp-network-install-1]
 
@@ -52,6 +53,13 @@ Una vez instalado, pide confirmación para instalar el gestor de arranque (GRUB)
 
 ![LliureX LTSP network installation][lliurex-ltsp-network-install-15]
 
+![LliureX LTSP network installation][lliurex-ltsp-network-install-16]
+
+![LliureX LTSP network installation][lliurex-ltsp-network-install-17]
+
+![LliureX LTSP network installation][lliurex-ltsp-network-install-final]
+
+
 
 
 
@@ -59,6 +67,7 @@ Por último, ya tenemos nuestro LliureX listo para el combate.
 
 <!-- imagenes -->
 
+[lliurex-ltsp-network-install-0]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient0.png "LliureX LTSP network installation"
 [lliurex-ltsp-network-install-1]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient1.png "LliureX LTSP network installation"
 [lliurex-ltsp-network-install-2]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient2.png "LliureX LTSP network installation"
 [lliurex-ltsp-network-install-3]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient3.png "LliureX LTSP network installation"
@@ -74,3 +83,6 @@ Por último, ya tenemos nuestro LliureX listo para el combate.
 [lliurex-ltsp-network-install-13]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient13.png "LliureX LTSP network installation"
 [lliurex-ltsp-network-install-14]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient14.png "LliureX LTSP network installation"
 [lliurex-ltsp-network-install-15]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient15.png "LliureX LTSP network installation"
+[lliurex-ltsp-network-install-16]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient16.png "LliureX LTSP network installation"
+[lliurex-ltsp-network-install-17]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient17.png "LliureX LTSP network installation"
+[lliurex-ltsp-network-install-final]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClientfinal.png "LliureX LTSP network installation"
