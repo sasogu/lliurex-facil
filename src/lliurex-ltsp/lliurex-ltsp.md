@@ -19,7 +19,7 @@ Cuando lo abrimos nos muestra la siguente pantalla:
 
 ![LliureX LTSP intro][lliurex-ltsp-intro]
 
-El usuario que nos pide debe ser administrador de la máquina local (*la opción remota la comentaremos más adelante*), o el usuario **netadmin** [^1]
+El usuario que nos pide debe ser administrador de la máquina local (*la opción remota la comentaremos más adelante*), o el usuario **netadmin**[^1]
 
 [^1]: El usuario al que le hemos puesto la contraseña al inicializar el servidor. Este es el _recomendado_.
 
