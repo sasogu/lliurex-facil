@@ -32,11 +32,11 @@ Usuario y contraseña
 
 ![LliureX LTSP network installation][lliurex-ltsp-network-install-7]
 
-Particionado del disco, en el caso de un cliente, podemos elegir "Guiado: Utilizar todo el disco", que es lo más sencillo
-
 ![LliureX LTSP network installation][lliurex-ltsp-network-install-8]
 
 ![LliureX LTSP network installation][lliurex-ltsp-network-install-9]
+
+Particionado del disco, en el caso de un cliente, podemos elegir "Guiado: Utilizar todo el disco", que es lo más sencillo
 
 ![LliureX LTSP network installation][lliurex-ltsp-network-install-10]
 
