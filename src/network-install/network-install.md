@@ -48,16 +48,18 @@ Particionado del disco, en el caso de un cliente, podemos elegir "Guiado: Utiliz
 
 ![LliureX LTSP network installation][lliurex-ltsp-network-install-14]
 
+Una vez instalado, pide confirmación para instalar el gestor de arranque (GRUB) 
+
 ![LliureX LTSP network installation][lliurex-ltsp-network-install-15]
 
 
-**...PROXIMAMENTE Más**
 
+
+Por último, ya tenemos nuestro LliureX listo para el combate.
 
 <!-- imagenes -->
 
-[lliurex-ltsp-network-install-client-boot]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_network_install_client_boot.png "LliureX LTSP network installation"
-[lliurex-ltsp-network-install-client-boot-choose]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_network_install_client_boot_choose.png "LliureX LTSP network installation"
+[lliurex-ltsp-network-install-1]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient1.png "LliureX LTSP network installation"
 [lliurex-ltsp-network-install-2]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient2.png "LliureX LTSP network installation"
 [lliurex-ltsp-network-install-3]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient3.png "LliureX LTSP network installation"
 [lliurex-ltsp-network-install-4]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient4.png "LliureX LTSP network installation"
