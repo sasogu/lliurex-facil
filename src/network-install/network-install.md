@@ -3,9 +3,19 @@ Instalación por red
 
 La instalación por red es el mecanismo que ofrecen muchas distribuciones, tales como *Debian*,*Ubuntu*,*Archlinux*,... que funciona arrancando una imágen minima (**netinstall**), particionando el disco e instalando todos los paquetes a partir de un repositorio que tengamos "**cerca**".
 
-Una vez tenemos el mirror creado y actualizado: ([LliureX Mirror](https://github.com/aberlanas/lliurex-facil/blob/master/src/lliurex-mirror/lliurex-mirror.md)), y hemos habilitado la instalación por red en el aula con [LliureX LTSP](https://github.com/aberlanas/lliurex-facil/blob/master/src/lliurex-ltsp/lliurex-ltsp.md). 
+Una vez tenemos el mirror creado y actualizado con [LliureX Mirror](https://github.com/aberlanas/lliurex-facil/blob/master/src/lliurex-mirror/lliurex-mirror.md), y hemos habilitado la instalación por red en el aula con [LliureX LTSP](https://github.com/aberlanas/lliurex-facil/blob/master/src/lliurex-ltsp/lliurex-ltsp.md). 
+
+Si arrancamos los clientes por red, lo que se muestra es esto:
+
+
 
 
 
 
 **...PROXIMAMENTE Más**
+
+
+<!-- imagenes -->
+
+[lliurex-ltsp-network-install-client-boot]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_network_install_client_boot.png "LliureX LTSP network installation"
+[lliurex-ltsp-network-install-client-boot-choose]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_network_install_client_boot_choose.png "LliureX LTSP network installation"
