@@ -16,4 +16,4 @@ En el menú de *Administración de LliureX* hay una entrada que es *LliureX LTSP
 
 
 
-[lliurex-ltsp-menu]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-mirror/lliurex_ltsp_menu.png "LliureX LTSP"
+[lliurex-ltsp-menu]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_menu.png "LliureX LTSP"
