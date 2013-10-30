@@ -22,6 +22,7 @@ Capítulos
 * [Modelo de Aula: Samba! ](src/lliurex-samba/lliurex-samba.md)
 * [LTSP en LliureX](src/lliurex-ltsp/lliurex-ltsp.md)
 * [Instalación por red](src/network-install/network-install.md)
+* [Inicialización del servidor](src/zero-server-wizard/zero-server-wizard.md)
 
 
 Agradecimientos
