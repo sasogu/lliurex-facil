@@ -58,7 +58,7 @@ Las imágenes de LTSP que se crean aquí serán los distintos *sabores* que se p
 
 Se muestra una imágen como la siguiente:
 
-![LliureX LTSP Image][lliurex-ltsp-image-creation]
+![LliureX LTSP Image][lliurex-ltsp-images-management]
 
 Como podemos observar, tan solo tenemos disponible el botón de **Install** de cada una de las imágenes, más adelante veremos las opciones avanzadas. Si pulsamos nos muestra la siguiente pantalla
 
