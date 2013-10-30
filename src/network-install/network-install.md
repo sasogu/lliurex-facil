@@ -9,7 +9,15 @@ Si arrancamos los clientes por red, lo que se muestra es esto:
 
 ![LliureX LTSP network installation][lliurex-ltsp-network-install-2]
 
+![LliureX LTSP network installation][lliurex-ltsp-network-install-3]
 
+![LliureX LTSP network installation][lliurex-ltsp-network-install-4]
+
+![LliureX LTSP network installation][lliurex-ltsp-network-install-5]
+
+![LliureX LTSP network installation][lliurex-ltsp-network-install-6]
+
+![LliureX LTSP network installation][lliurex-ltsp-network-install-7]
 
 
 
@@ -22,3 +30,8 @@ Si arrancamos los clientes por red, lo que se muestra es esto:
 [lliurex-ltsp-network-install-client-boot]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_network_install_client_boot.png "LliureX LTSP network installation"
 [lliurex-ltsp-network-install-client-boot-choose]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_network_install_client_boot_choose.png "LliureX LTSP network installation"
 [lliurex-ltsp-network-install-2]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient2.png "LliureX LTSP network installation"
+[lliurex-ltsp-network-install-3]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient3.png "LliureX LTSP network installation"
+[lliurex-ltsp-network-install-4]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient4.png "LliureX LTSP network installation"
+[lliurex-ltsp-network-install-5]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient5.png "LliureX LTSP network installation"
+[lliurex-ltsp-network-install-6]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient6.png "LliureX LTSP network installation"
+[lliurex-ltsp-network-install-7]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient7.png "LliureX LTSP network installation"
