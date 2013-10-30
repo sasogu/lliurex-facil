@@ -70,7 +70,20 @@ Y ahora si pulsamos sobre el botón, nos vamos a por un buen café. Mientras que
 
 ![LliureX LTSP Image Creation Progress][lliurex-ltsp-image-creation-progress]
 
+Una vez se ha creado la imágen (para lo cual se tomará más de media hora), ya podemos arrancar en el aula los clientes por red e iniciar sesión con los usuarios de red, tal y como lo haríamos si estuvieran instalados.
 
+Este es el mensaje cuando acaba:
+
+
+
+Habilitar/deshabilitar la instalación por red en el aula
+--------------------------------------------------------
+
+En el apartado de instalación por red, lo único que tenemos es un botón que nos permite habilitar (o deshabilitar) la instalación por red en el aula.
+
+Esta instalación usará los paquetes del Mirror de LliureX que haya en el servidor, por lo que actualizarlo a la última versión *nunca está de más*, tal y como se explica (de nuevo) aquí: [LliureX Mirror](https://github.com/aberlanas/lliurex-facil/blob/master/src/lliurex-mirror/lliurex-mirror.md)
+
+![LliureX LTSP network installation][lliurex-ltsp-network-install]
 
 
 [lliurex-ltsp-menu]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_menu.png "LliureX LTSP"
@@ -80,5 +93,8 @@ Y ahora si pulsamos sobre el botón, nos vamos a por un buen café. Mientras que
 [lliurex-ltsp-image-creation]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_image_creation.png "LliureX LTSP Image Creation"
 [lliurex-ltsp-image-prev-creation]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_create_prev.png "LliureX LTSP Image Creation"
 [lliurex-ltsp-image-creation-progress]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_image_creation_progress.png "LliureX LTSP image creation progress"
+
+[lliurex-ltsp-network-install]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_network_install.png "LliureX LTSP network installation"
+
 [cafe]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/miscelanea/cafe.jpg "Cafe"
 
