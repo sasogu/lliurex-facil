@@ -68,6 +68,7 @@ Y ahora si pulsamos sobre el botón, nos vamos a por un buen café. Mientras que
 
 ![Un buen café][cafe]
 
+![LliureX LTSP Image Creation Progress][lliurex-ltsp-image-creation-progress]
 
 
 
