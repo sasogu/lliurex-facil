@@ -7,6 +7,8 @@ Una vez tenemos el mirror creado y actualizado con [LliureX Mirror](https://gith
 
 Si arrancamos los clientes por red, lo que se muestra es esto:
 
+![LliureX LTSP network installation][lliurex-ltsp-network-install-2]
+
 
 
 
@@ -19,3 +21,4 @@ Si arrancamos los clientes por red, lo que se muestra es esto:
 
 [lliurex-ltsp-network-install-client-boot]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_network_install_client_boot.png "LliureX LTSP network installation"
 [lliurex-ltsp-network-install-client-boot-choose]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_network_install_client_boot_choose.png "LliureX LTSP network installation"
+[lliurex-ltsp-network-install-2]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient2.png "LliureX LTSP network installation"
