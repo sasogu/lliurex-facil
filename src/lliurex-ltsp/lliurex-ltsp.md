@@ -64,6 +64,12 @@ Como podemos observar, tan solo tenemos disponible el botón de **Install** de c
 
 ![LliureX LTSP Image Prev][lliurex-ltsp-image-prev-creation]
 
+Y ahora si pulsamos sobre el botón, nos vamos a por un buen café. Mientras que LliureX hace todo el trabajo duro.
+
+![Un buen café][cafe]
+
+
+
 
 
 [lliurex-ltsp-menu]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_menu.png "LliureX LTSP"
@@ -73,3 +79,5 @@ Como podemos observar, tan solo tenemos disponible el botón de **Install** de c
 [lliurex-ltsp-image-creation]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_image_creation.png "LliureX LTSP Image Creation"
 [lliurex-ltsp-image-prev-creation]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_create_prev.png "LliureX LTSP Image Creation"
 [lliurex-ltsp-image-creation-progress]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_image_creation_progress.png "LliureX LTSP image creation progress"
+[cafe]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/miscelanea/cafe.jpg "Cafe"
+
