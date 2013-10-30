@@ -12,8 +12,20 @@ LliureX LTSP en 60 Segundos
 ---------------------------
 
 En el menú de *Administración de LliureX* hay una entrada que es *LliureX LTSP*.
+
 ![LliureX LTSP en el Menú][lliurex-ltsp-menu]
 
+Cuando lo abrimos nos muestra la siguente pantalla:
+
+![LliureX LTSP intro][lliurex-ltsp-intro]
+
+El usuario que nos pide debe ser administrador de la máquina local (*la opción remota la comentaremos más adelante*), o el usuario **netadmin** [^1]
+
+[^1]: El usuario al que le hemos puesto la contraseña al inicializar el servidor. Este es el _recomendado_.
 
 
 [lliurex-ltsp-menu]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_menu.png "LliureX LTSP"
+[lliurex-ltsp-intro]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_intro.png "LliureX LTSP Intro"
+[lliurex-ltsp-main-menu]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_main_menu.png "LliureX LTSP Main Menu"
+[lliurex-ltsp-image-creation]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_image_creation.png "LliureX LTSP Image Creation"
+[lliurex-ltsp-image-creation-progress]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_image_creation_progress.png "LliureX LTSP image creation progress"
