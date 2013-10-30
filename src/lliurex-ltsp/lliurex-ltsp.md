@@ -94,7 +94,7 @@ Y luego podemos elegir el tipo de instalación que queremos para la máquina
 
 [lliurex-ltsp-network-install-client-boot-choose]
 
-La instalación irá haciendonos las preguntas correspondientes. 
+La instalación irá haciendonos las preguntas correspondientes. Tenemos un capítulo para esto aquí: [Instalación por red](https://github.com/aberlanas/lliurex-facil/blob/master/src/network-install/network-install.md)
 
 <!-- imagenes -->
 
