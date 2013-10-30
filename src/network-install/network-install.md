@@ -8,8 +8,6 @@ Una vez tenemos el mirror creado y actualizado con [LliureX Mirror](https://gith
 Si arrancamos los clientes por red, lo que se muestra es esto:
 ![LliureX LTSP network installation][lliurex-ltsp-network-install-0]
 
-![LliureX LTSP network installation][lliurex-ltsp-network-install-1]
-
 Seleccionamos la opción de instalar LliureX y nos mostrará un menú para que podamos elegir el sabor de la instalación. En el caso de que queramos un cliente, seleccionamos cliente.
 
 ![LliureX LTSP network installation][lliurex-ltsp-network-install-2]
