@@ -88,7 +88,7 @@ Esta instalación usará los paquetes del Mirror de LliureX que haya en el servi
 
 Lo que se ve si se arranca por red un cliente y se tiene la instalación por red habilitada en el servidor es lo siguiente:
 
-![LliureX LTSP network installation][lliurex-ltsp-network-install-client-boot]
+![LliureX LTSP network installation][lliurex-ltsp-network-install-0]
 
 Y luego podemos elegir el tipo de instalación que queremos para la máquina
 
@@ -106,7 +106,7 @@ La instalación irá haciendonos las preguntas correspondientes. Tenemos un cap�
 [lliurex-ltsp-image-prev-creation]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_create_prev.png "LliureX LTSP Image Creation"
 [lliurex-ltsp-image-creation-progress]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_image_creation_progress.png "LliureX LTSP image creation progress"
 [lliurex-ltsp-network-install]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_network_install.png "LliureX LTSP network installation"
+[lliurex-ltsp-network-install-0]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient0.png "LliureX LTSP network installation"
 [lliurex-ltsp-network-install-2]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/network-install/LliureXClient2.png "LliureX LTSP network installation"
-
 [cafe]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/miscelanea/cafe.jpg "Cafe"
 
