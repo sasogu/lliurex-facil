@@ -45,6 +45,24 @@ Actualizar el mirror
 Esto funciona exactamente como dice aquí: [LliureX Mirror](https://github.com/aberlanas/lliurex-facil/blob/master/src/lliurex-mirror/lliurex-mirror.md)
 
 
+Administrar el aula
+-------------------
+
+Para explicar esto no valen 60 segundos...así que lo veremos más adelante ^_^
+
+
+Crear imágenes de LTSP para el aula
+-----------------------------------
+
+Las imágenes de LTSP que se crean aquí serán los distintos *sabores* que se podrán arrancar para trabajar en el aula sin necesidad de tener los sistemas instalados. Esto es típicamente para los clientes ligeros (**thin-clients**) y para los equipos que por cualquier razón quisieramos arrancar en el aula sin usar su disco duro (*faenas de reparación,un portátil con virus,ect.*)
+
+Se muestra una imágen como la siguiente:
+
+![LliureX LTSP Image][lliurex-ltsp-image-creation]
+
+Como podemos observar, tan solo tenemos disponible el botón de **Install**
+
+
 [lliurex-ltsp-menu]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_menu.png "LliureX LTSP"
 [lliurex-ltsp-intro]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_intro.png "LliureX LTSP Intro"
 [lliurex-ltsp-main-menu]: https://raw.github.com/aberlanas/lliurex-facil/master/imgs/lliurex-ltsp/lliurex_ltsp_main_menu.png "LliureX LTSP Main Menu"
